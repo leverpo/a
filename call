@@ -1,6 +1,6 @@
 {
     "data": {
-        "show_ads": true,
+        "show_ads": false,
         "bannerAd": "admob",
         "InterAd": "admob",
         "NativeAd": "admob",
