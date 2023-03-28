@@ -189,6 +189,11 @@
             "bg" : "#3F51B5"
         },{
             "active" : "true",
+            "name" : "caller",
+            "ico" : "https://raw.githubusercontent.com/KOUBAAFARDOUNIALI/garten-of-banban-3-chapter-2-3-4/main/7.png",
+            "bg" : "#3F51B5"
+        },{
+            "active" : "true",
             "name" : "games",
             "ico" : "https://raw.githubusercontent.com/KOUBAAFARDOUNIALI/garten-of-banban-3-chapter-2-3-4/main/8.png",
             "bg" : "#673AB7"
