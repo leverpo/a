@@ -12,7 +12,7 @@
             "activate_steps" : "false",
             "activate_step_email" : "false",
             "one_signal" : "ead4d9fc-c63d-4cbd-b62e-19017a7a4573",
-            "network" : "is",
+                        "network" : "admob",
 
             "admob_ban" : "ca-app-pub-3940256099942544/6300978111",
             "admob_native" : "ca-app-pub-3940256099942544/2247696110",
@@ -26,11 +26,11 @@
             "max_native" : "9e27ff985bda79be",
             "max_int" : "3805b3b693717700",
 
-            "fan_ban": "",
-            "fan_native": "541908368045638_541939691375839",
-            "fan_int": "541908368045638_541939168042558",
+            "fan_ban": "IMG_16_9_APP_INSTALL#5352092381549612_5352094308216086",
+            "fan_native": "IMG_16_9_APP_INSTALL#5352092381549612_5352094618216055",
+            "fan_int": "IMG_16_9_APP_INSTALL#5352092381549612_5352095061549344",
 
-            "iron_source_key": "195f050a5",
+            "iron_source_key": "12c959ebd",
 
             "diamond": "https://raw.githubusercontent.com/mone4eanee/ModdoorsfloorobLox/main/diam.png",
             "cover": "https://raw.githubusercontent.com/KOUBAAFARDOUNIALI/garten-of-banban-3-chapter-2-3-4/main/couver.jpg",
